@@ -1,0 +1,2 @@
+# NixNote.AppImage
+# NixNote.AppImage
